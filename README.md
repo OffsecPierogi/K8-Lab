@@ -41,7 +41,7 @@ The K8-Setup script will setup a vulnerable Kubernetes environment on your VM, i
 - Cross-namespace attacks
 
 
-========================================================================================
+====================================================================================
 
 
 ## K8-Privz
@@ -82,7 +82,7 @@ The K8-Privz script will show vulnerabilities and possible attacks that can be c
 - ENDPOINT_EXPLOIT - Exposed services (LoadBalancer and NodePort types)
 
 
-========================================================================================
+====================================================================================
 
 
 ## K8 Webhook
