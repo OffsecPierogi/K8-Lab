@@ -137,6 +137,25 @@ The stolen token is sent to your webhook.site URL with:
 9. Attacker receives token and can impersonate the service account
 ```
 
+## Resources
+
+These are the resources that inspired me and helped me with my research and this project.
+
+https://heilancoos.github.io/research/2025/12/16/kubernetes.html#understanding-certificate-authorities
+
+https://kubehound.io/reference/attacks/
+
+https://trustedsec.com/blog/kubernetes-for-pentesters-part-1
+
+https://github.com/ReversecLabs/IceKube
+
+https://microsoft.github.io/Threat-Matrix-for-Kubernetes/
+
+https://www.armosec.io/blog/kubernetes-attack-chains-and-how-to-break-them/
+
+https://cloud.hacktricks.wiki/en/pentesting-cloud/kubernetes-security/kubernetes-basics.html
+
+https://kubenomicon.com/
 
 ## Manual Exfiltration Option
 
